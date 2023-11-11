@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import BirthdayForm from '../components/BirthdayForm'
 import Counter from '../components/Counter'
+import LonghornGame from '../components/LonghornGame'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -12,6 +13,7 @@ export default function Home() {
     >
       <BirthdayForm />
       <Counter />
+      <LonghornGame />
     </main>
   )
 }
