@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a birthday form component and make it beautifully styled with tailwind. Include an example of this in the index page.","md5":"50d3deb675095d83f82266abd42934e9"}]}
