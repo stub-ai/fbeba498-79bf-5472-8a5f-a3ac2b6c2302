@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a counter component that has a button which increases every time it is pressed. Also create a backend API that is called when the counter changes","md5":"bb97b63c2888751a33c575d5c2472d15"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[]}
